@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+streamlit
+dlib-bin
+
+scikit-learn
+git+https://github.com/ageitgey/face_recognition_models
+
+setuptools
+
+Supabase
+bcrypt
+Segno
+pillow
