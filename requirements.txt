@@ -14,3 +14,4 @@ Supabase
 bcrypt
 Segno
 pillow
+resemblyzer
